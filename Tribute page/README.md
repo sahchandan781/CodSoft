@@ -3,6 +3,11 @@
 ## Overview
 This project is a tribute page dedicated to the cricketer Virat Kohli. It serves as a simple yet elegant homage to their life and achievements. This page is designed using HTML, CSS, and possibly JavaScript.
 
+## Demo
+A live demo of the tribute page can be found 
+
+https://sahchandan781.github.io/CodSoft/Tribute%20page
+
 ## Features
 - **Biography:** Provides a brief biography of the person being honored.
 - **Timeline:** Highlights significant events and achievements in the person's life.
